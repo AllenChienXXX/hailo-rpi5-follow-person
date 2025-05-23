@@ -2,8 +2,8 @@
 set -e  # Exit immediately if a command exits with a non-zero status
 
 # Source environment variables and activate virtual environment
-echo "Sourcing environment variables and activating virtual environment..."
-source setup_env.sh
+# echo "Sourcing environment variables and activating virtual environment..."
+# source setup_env.sh
 
 # Install additional system dependencies (if needed)
 echo "Installing additional system dependencies..."
